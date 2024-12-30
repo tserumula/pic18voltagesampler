@@ -2,7 +2,6 @@
  * File:   main.c
  * Author: thabang
  *
- * Created on November 23, 2024, 6:09 PM
  */
 
 // PIC18F14K50 Configuration Bit Settings
