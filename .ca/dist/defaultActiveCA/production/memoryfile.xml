@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name=".ca/dist/defaultActiveCA/production/PIC18VoltageSampler.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>15864</used>
+      <free>520</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>768</length>
+      <used>331</used>
+      <free>437</free>
+    </memory>
+  </executable>
+</project>
